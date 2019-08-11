@@ -12,9 +12,10 @@
 	<artifactId>jadeite</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jadeite</name>
-	<description>Demo project for Spring Boot</description>
+	<description>jadeite project by Spring Boot</description>
 
 	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
 	</properties>
 
